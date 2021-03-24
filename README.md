@@ -6,3 +6,5 @@ This repository is full of personal notebooks for practicing a variety of basic 
     1. Just the very basics. By the end, we extended on some of the problems with a full object-oriented back-end and front-end gameplay for the popular games "Hangman" and "Tic-Tact-Toe."
 2. [Project Euler](https://www.projecteuler.net)
     1. Mathematics based questions with an emphasis on simple coding.
+    2. These start easy, but some get very challenging! You have to have a little background in number theory.
+    3. The goal is **not** to use grid searches. Use the theory of numbers to search efficiently.
