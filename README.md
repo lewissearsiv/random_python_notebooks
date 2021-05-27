@@ -8,3 +8,4 @@ This repository is full of personal notebooks for practicing a variety of basic 
     1. Mathematics based questions with an emphasis on simple coding.
     2. These start easy, but some get very challenging! You have to have a little background in number theory.
     3. The goal is **not** to use grid searches. Use the theory of numbers to search efficiently.
+    4. **Completed 1-40 as of 5/27/2021**
